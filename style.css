@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,900;1,700&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  list-style-type: none;
+  transition: all .3s;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #07080D;
+}
+
+header img {
+  width: 200px;
+}
+
+header a {
+  text-decoration: none;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #f1f1f1;
+  letter-spacing: 2px;
+}
+
+header a:hover {
+  color: #ffc632;
+  border-bottom: 2px solid #ffc632;
+}
+
+.main-title {
+  color: rgb(255, 255, 255);
+}
+
+.main-title span {
+  color: #ffc632;
+ 
+}
+
+.main-prg {
+  color: white;
+}
+
+.main-btn {
+  text-decoration: none;
+  background-color: #ffc632;
+  font-size: 25px;
+}
+.main-btn a{
+  text-decoration: none;
+  color: black;
+}
+.mb-3 label {
+  color: rgb(150, 139, 139);
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.mb-3 input {
+  width: 100%;
+  color: #746a6a;
+}
+
+.box {
+  margin-left: 100px;
+}
+
+.box button {
+  width: 20%;
+}
+
+.box1 {
+  margin-top: 40px;
+  background-color: #ffc632;
+  width: 1688px;
+  height: 300px;
+  display: flex;
+}
+
+.orta {
+
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 80px;
+  margin-left: 15%;
+  font-size: 30px;
+}
+
+.sonuncu {
+  margin-top: 7px;
+  padding: 80px;
+  margin-left: 20%;
+  font-size: 30px;
+}
+.t {
+  padding: 80px;
+ 
+  font-size: 30px;
+
+}
+.container i{
+  margin-top: 70px;
+  color: #f1f1f1;
+  font-size: 25px;
+  padding: 15px;
+}
+.container{
+  padding: 50px;
+}
+p{
+  font-size: 20px;
+}
+h1{
+  font-size: 80px;
+}
+.jasper{
+ font-size: 40px;
+}
+.boxsr{
+  background: #ffc632;
+  width: 99%;
+}
+.main-qora{
+  color: #07080D;
+  font-size: 40px;
+}
+.son{
+  background: #ffc632;
+}
+.icon i{
+  color: black;
+  margin-top: 20px;
+  font-size: 30px;
+
+}
+@media(max-widht 500px){
+  .main-title
+  
+
+}
